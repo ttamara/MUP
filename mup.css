@@ -1,0 +1,85 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    top: 0;
+}
+
+.left {
+    left: 0;
+    background-color: #ffbda2;
+}
+
+.right {
+    right: 0;
+    background-color: #ffbda2;
+}
+
+.elements {
+    position: relative;
+    left: 175px;
+    top: 50px;
+    margin-bottom: 20px;
+}
+
+.text {
+    position: relative;
+    left: 175px;
+    top: 50px;
+    font-size: large;
+}
+
+.elementsTwo {
+    position: relative;
+    left: 175px;
+    top: 70px;
+}
+
+.textTwo {
+    position: relative;
+    left: 175px;
+    top: 70px;
+    font-size: large;
+}
+
+textarea {
+    text-align: center;
+}
+
+#izracunaj {
+    width: 250px;
+    height: 75px;
+    margin-top: 40px;
+    font-size: large;
+    background-color: lightseagreen;
+    border-style: outset;
+}
+
+#iznos, 
+#iznosTekst {
+    position: relative;
+    left: 240px;
+}
+
+#iznos {
+    font-size: large;
+}
+
+#noviRacun {
+    position: relative;
+    left: 250px;
+    font-size: large;
+    background-color: lightseagreen;
+    border-style: outset;
+    width: 200px;
+    height: 25px;
+}
+
+#autor {
+    position: relative;
+    left: 480px;
+}
+
+
+
+
